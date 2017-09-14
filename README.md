@@ -14,3 +14,8 @@ and another for inserting one string into another (in this case, just printf).
 Anyway, I wrote this monstrosity of a Quine in plain C (jpo had written one
 using stringify features of the preprocessor before). I'll probably write more
 and leave them here, because it was fun.
+
+# Quinextra #
+
+This one is slightly more interesting: you can type in a one-line expression to
+transform the source code in some way before it gets printed (e.g. reversing it).
